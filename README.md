@@ -49,9 +49,9 @@ PowerBI
    - ➡️ Minimum sales via EMI mode (10%)
 
 
-
 # 📸 Data Visualisation
 
+![8 Madhav E Commerce Dashboard](https://github.com/harshitgahlaut/Madhav_E_Commerce_Sales_Dashboard_PowerBI/assets/142779836/5484d4a3-a38a-4ac5-b1c0-72ded002c12c)
 
 # 📊 **Project Learnings:**
 - 📈 Created an interactive dashboard for online sales data tracking and analysis.
